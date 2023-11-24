@@ -17,7 +17,7 @@ function fibonacci(num) {
 }
 
 // Get user input for the value of num
-var userInput = prompt("Enter a positive integer:");
+var userInput = prompt();
 
 // Convert the user input to an integer
 var userNum = parseInt(userInput);
